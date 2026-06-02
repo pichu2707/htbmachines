@@ -39,7 +39,7 @@ npm install -g js-beautify
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/htbmachines-searcher.git
+git clone https://github.com/pichu2707/htbmachines-searcher.git
 cd htbmachines-searcher
 ```
 
@@ -181,7 +181,7 @@ El script:
 
 # Autor
 
-Desarrollado por Javi Lázaro
+Desarrollado por Javi Lázaro siguiendo el curso de Hack4U de Savit4r
 
 ---
 
